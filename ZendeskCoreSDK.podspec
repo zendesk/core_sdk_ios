@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ZendeskCoreSDK"
-  s.version      = "9.9.10"
+  s.version      = "9.9.11"
   s.summary      = "ZendeskCoreSDK #{s.version.to_s}"
   s.homepage     = "https://developer.zendesk.com/embeddables"
   s.license      = {
@@ -19,6 +19,6 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '10.0'
   s.requires_arc = true
   s.swift_version = '5.1.3'
-  s.source       = { :git => "https://github.com/zendesk/core_sdk_ios.git", :tag => s.version }
+  s.source = { :http => 'https://zendesk.jfrog.io/zendesk/libs-releases-local/ios/zendesk/#{s.swift_version}/ZendeskCoreSDK/#{s.version.to_s}/ZendeskCoreSDK.zip' }
   s.vendored_frameworks = 'ZendeskCoreSDK.framework'
 end
