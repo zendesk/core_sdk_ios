@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lzeUU1k6rCXK93nLiZDRYgM3/+Y=
+		3/8jMZ74qKTilPddIyMVpel1hGQ=
 		</data>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8e7ZJ3NRc2jA4ndRUU3ZEMyErig=
+		M9x4REkz8qFSexhUwwN7NH/uwmY=
 		</data>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/i386.swiftmodule</key>
 		<data>
-		8e7ZJ3NRc2jA4ndRUU3ZEMyErig=
+		M9x4REkz8qFSexhUwwN7NH/uwmY=
 		</data>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GafbMZn9xNNXJzgUSGoLxree3fY=
+		SgKlhYQeMiFO73LYPbC1xFeeW9g=
 		</data>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		GafbMZn9xNNXJzgUSGoLxree3fY=
+		SgKlhYQeMiFO73LYPbC1xFeeW9g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -149,11 +149,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8e7ZJ3NRc2jA4ndRUU3ZEMyErig=
+			M9x4REkz8qFSexhUwwN7NH/uwmY=
 			</data>
 			<key>hash2</key>
 			<data>
-			KPeSM21zyWZq/ScS2Xsp0zN1Z3JkdBOD1Wx+mq873q0=
+			LwAEnt48nwyuwhgpG3pBU+I4ufGKckJNDJGHl8KzWFE=
 			</data>
 		</dict>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/i386.swiftdoc</key>
@@ -182,11 +182,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8e7ZJ3NRc2jA4ndRUU3ZEMyErig=
+			M9x4REkz8qFSexhUwwN7NH/uwmY=
 			</data>
 			<key>hash2</key>
 			<data>
-			KPeSM21zyWZq/ScS2Xsp0zN1Z3JkdBOD1Wx+mq873q0=
+			LwAEnt48nwyuwhgpG3pBU+I4ufGKckJNDJGHl8KzWFE=
 			</data>
 		</dict>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -215,11 +215,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GafbMZn9xNNXJzgUSGoLxree3fY=
+			SgKlhYQeMiFO73LYPbC1xFeeW9g=
 			</data>
 			<key>hash2</key>
 			<data>
-			tDXtVPP8V0LD8D29Gi9tJRJkoWym1EsGiOzH6QyMscA=
+			g0M83y+3QhZp+M7FONNcki+M9cQpUPIBIhXv0gpJCDA=
 			</data>
 		</dict>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64.swiftdoc</key>
@@ -248,11 +248,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GafbMZn9xNNXJzgUSGoLxree3fY=
+			SgKlhYQeMiFO73LYPbC1xFeeW9g=
 			</data>
 			<key>hash2</key>
 			<data>
-			tDXtVPP8V0LD8D29Gi9tJRJkoWym1EsGiOzH6QyMscA=
+			g0M83y+3QhZp+M7FONNcki+M9cQpUPIBIhXv0gpJCDA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
