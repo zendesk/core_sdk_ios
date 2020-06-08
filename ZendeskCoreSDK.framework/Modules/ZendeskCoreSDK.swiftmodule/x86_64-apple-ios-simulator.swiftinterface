@@ -48,7 +48,7 @@ public protocol CachedHTTPURLResponseTransformer {
   func transform(_ proposedResponse: Foundation.CachedURLResponse) -> Foundation.CachedURLResponse
 }
 public struct PageView<T> : Swift.Encodable where T : Swift.Encodable {
-  public init(version: Swift.String, channel: Swift.String, url: Swift.String, pageTitle: Swift.String, navigatorLanguage: Swift.String, value: T? = nil)
+  public init(version: Swift.String, channel: Swift.String, url: Swift.String, pageTitle: Swift.String, navigatorLanguage: Swift.String, pageId: Swift.Int64, pageLocale: Swift.String, value: T? = nil)
   public func encode(to encoder: Swift.Encoder) throws
 }
 public typealias CompletionHandler = (Foundation.Data?, Foundation.URLResponse?, Swift.Error?) -> Swift.Void
