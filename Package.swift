@@ -14,8 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ZendeskCoreSDK",
-            url: "https://github.com/zendesk/core_sdk_ios/releases/download/2.5.0/ZendeskCoreSDK.xcframework.zip",
-            checksum: "96534c348e7f3b49fb3b34e5765c1c267c41a29774c2481ccfbd4be08f275727"
+            path: "ZendeskCoreSDK.xcframework"
         )
     ]
 )
