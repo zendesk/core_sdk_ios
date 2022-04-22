@@ -20,6 +20,5 @@
 #define ZendeskCoreSDK_h
 
 #import <ZendeskCoreSDK/ZDKIdentityMigrator.h>
-#import <ZendeskCoreSDK/ZDKAuthenticationURLProtocol.h>
 
 #endif

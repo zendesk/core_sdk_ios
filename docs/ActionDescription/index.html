@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZendeskCoreSDK - ActionDescription</title>
+    <link rel="stylesheet" type="text/css" href="/core_sdk_ios/all.css" media="all" />
+</head>
+<body>
+    <header>
+        <a href="/core_sdk_ios">
+            <strong>
+                ZendeskCoreSDK
+            </strong>
+            <span>Documentation</span>
+        </a>
+    </header>
+
+    <!--
+    <form class="search">
+        <input type="search" placeholder="Search" />
+    </form>
+    -->
+
+    <nav>
+        <div class="wrapper">
+            <h2>On This Page</h2>
+            <ol><li><a href="#initializers">Initializers</a><ul><li class="initializer"><a href="#actiondescription.init(localisedlabel:localisedaccessibilitylabel:iconname:bundleurl:)">init(localised​Label:​localised​Accessibility​Label:​icon​Name:​bundle​Url:​)</a></li></ul></li><li><a href="#properties">Properties</a><ul><li class="variable"><a href="#actiondescription.localisedlabel">localised​Label</a></li><li class="variable"><a href="#actiondescription.localisedaccessibilitylabel">localised​Accessibility​Label</a></li><li class="variable"><a href="#actiondescription.iconname">icon​Name</a></li><li class="variable"><a href="#actiondescription.bundleurl">bundle​Url</a></li><li class="variable"><a href="#actiondescription.iconimage">icon​Image</a></li></ul></li></ol>
+        </div>
+    </nav>
+
+    <main>
+        <article>
+            <h1>
+    <small>Structure</small>
+    <code class="name">Action​Description</code>
+</h1>
+
+<div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="keyword">struct</span> <span class="type">ActionDescription</span>  </body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>An object which describes an <code>ActionHandler</code>.</p>
+
+</div>
+
+    <section id="initializers">
+        <h2>Initializers</h2>
+
+        <div role="article" class="initializer" id="actiondescription.init(localisedlabel:localisedaccessibilitylabel:iconname:bundleurl:)">
+    <h3>
+        <code><a href="#actiondescription.init(localisedlabel:localisedaccessibilitylabel:iconname:bundleurl:)">init(localised​Label:​localised​Accessibility​Label:​icon​Name:​bundle​Url:​)</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="keyword">init</span>(<span class="variable">localisedLabel</span>: <span class="type">String</span>, <span class="variable">localisedAccessibilityLabel</span>: <span class="type">String</span>, <span class="variable">iconName</span>: <span class="type">String</span>? = <span class="keyword">nil</span>, <span class="variable">bundleUrl</span>: <span class="type">URL</span>? = <span class="keyword">nil</span>)  </body></html></code></pre>
+</div>
+</div>
+    </section>
+    <section id="properties">
+        <h2>Properties</h2>
+
+        <div role="article" class="variable" id="actiondescription.localisedlabel">
+    <h3>
+        <code><a href="#actiondescription.localisedlabel">localised​Label</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="keyword">let</span> <span class="variable">localisedLabel</span>: <span class="type">String</span></body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>A translated label for the action which may be used in the UI element of another SDK.</p>
+
+</div>
+</div>
+<div role="article" class="variable" id="actiondescription.localisedaccessibilitylabel">
+    <h3>
+        <code><a href="#actiondescription.localisedaccessibilitylabel">localised​Accessibility​Label</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="keyword">let</span> <span class="variable">localisedAccessibilityLabel</span>: <span class="type">String</span></body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>A translated label for the action which may be used to describe a UI element of another SDK.</p>
+
+</div>
+</div>
+<div role="article" class="variable" id="actiondescription.iconname">
+    <h3>
+        <code><a href="#actiondescription.iconname">icon​Name</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="keyword">let</span> <span class="variable">iconName</span>: <span class="type">String</span>? </body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>The name of an asset that will be lazily loaded to be used in the UI of another SDK</p>
+
+</div>
+</div>
+<div role="article" class="variable" id="actiondescription.bundleurl">
+    <h3>
+        <code><a href="#actiondescription.bundleurl">bundle​Url</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="keyword">let</span> <span class="variable">bundleUrl</span>: <span class="type">URL</span>? </body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>The URL to the bundle where the icon asset is.</p>
+
+</div>
+</div>
+<div role="article" class="variable" id="actiondescription.iconimage">
+    <h3>
+        <code><a href="#actiondescription.iconimage">icon​Image</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="attribute">lazy</span> <span class="keyword">var</span> <span class="variable">iconImage</span>  </body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>An image icon lazily loaded for the action which may be used in the UI of another SDK.</p>
+
+</div>
+</div>
+    </section>
+
+
+
+        </article>
+    </main>
+
+    <footer>
+        <p>
+    Generated on <time datetime="2022-04-22T09:58:38+0000">April 22, 2022</time> using <a href="https://github.com/SwiftDocOrg/swift-doc">swift-doc</a> <span class="version">1.0.0-rc.1</span>.
+</p>
+    </footer>
+</body>
+</html>

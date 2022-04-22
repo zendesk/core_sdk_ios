@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZendeskCoreSDK - PushRegistrationProvider</title>
+    <link rel="stylesheet" type="text/css" href="/core_sdk_ios/all.css" media="all" />
+</head>
+<body>
+    <header>
+        <a href="/core_sdk_ios">
+            <strong>
+                ZendeskCoreSDK
+            </strong>
+            <span>Documentation</span>
+        </a>
+    </header>
+
+    <!--
+    <form class="search">
+        <input type="search" placeholder="Search" />
+    </form>
+    -->
+
+    <nav>
+        <div class="wrapper">
+            <h2>On This Page</h2>
+            <ol><li><a href="#methods">Methods</a><ul><li class="function"><a href="#pushregistrationprovider.registerforpush(withdeviceidentifier:locale:callback:)">register​For​Push(with​Device​Identifier:​locale:​callback:​)</a></li><li class="function"><a href="#pushregistrationprovider.registerforpush(withuachannelid:locale:callback:)">register​For​Push(with​UAChannel​Id:​locale:​callback:​)</a></li><li class="function"><a href="#pushregistrationprovider.unregisterforpush()">unregister​For​Push()</a></li></ul></li></ol>
+        </div>
+    </nav>
+
+    <main>
+        <article>
+            <h1>
+    <small>Class</small>
+    <code class="name">Push​Registration​Provider</code>
+</h1>
+
+<div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="attribute">final</span> <span class="keyword">class</span> <span class="type">PushRegistrationProvider</span>  </body></html></code></pre>
+</div>
+
+    <section id="methods">
+        <h2>Methods</h2>
+
+        <div role="article" class="function" id="pushregistrationprovider.registerforpush(withdeviceidentifier:locale:callback:)">
+    <h3>
+        <code><a href="#pushregistrationprovider.registerforpush(withdeviceidentifier:locale:callback:)">register​For​Push(with​Device​Identifier:​locale:​callback:​)</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="keyword">func</span> <span class="function">registerForPush</span>(<span class="variable">withDeviceIdentifier</span> <span class="variable">identifier</span>: <span class="type">String</span>,
+                                <span class="variable">locale</span>: <span class="type">String</span>,
+                                <span class="variable">callback</span>: <span class="attribute">@</span><span class="attribute">escaping</span> (<span class="type">PushRegistrationResult</span>) -&gt; <span class="type">Void</span>)  </body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>Calls a push registration end point to register the given APNS device id.</p>
+
+</div>
+<div class="discussion">
+    <p>This method stores the response on successful registration.
+Subsequent calls to this method with the same <code>identifier</code> bypass calls to the
+network and return the stored response in the completion handler.
+Calling this method with a different <code>identifier</code> will remove any stored
+response from storage.</p>
+
+</div>
+<h4>Parameters</h4>
+
+<table class="parameters">
+  <thead hidden>
+  <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <th>device​Identifier</th>
+    <td></td>
+    <td><p>The device identifier</p>
+</td>
+</tr>
+<tr>
+    <th>locale</th>
+    <td><code class="type">String</code></td>
+    <td><p>The preferred device locale</p>
+</td>
+</tr>
+<tr>
+    <th>callback</th>
+    <td><code class="type">@escaping (Push​Registration​Result) -&gt; Void</code></td>
+    <td><p>A result enum with a <code>PushRegistrationResponse</code> returned in the success case and an error in the error xcase.</p>
+</td>
+</tr>
+  </tbody>
+</table>
+</div>
+<div role="article" class="function" id="pushregistrationprovider.registerforpush(withuachannelid:locale:callback:)">
+    <h3>
+        <code><a href="#pushregistrationprovider.registerforpush(withuachannelid:locale:callback:)">register​For​Push(with​UAChannel​Id:​locale:​callback:​)</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="keyword">func</span> <span class="function">registerForPush</span>(<span class="variable">withUAChannelId</span> <span class="variable">identifier</span>: <span class="type">String</span>,
+                                <span class="variable">locale</span>: <span class="type">String</span>,
+                                <span class="variable">callback</span>: <span class="attribute">@</span><span class="attribute">escaping</span> (<span class="type">PushRegistrationResult</span>) -&gt; <span class="type">Void</span>)  </body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>Calls a push registration end point to register the given Urban Airship channel id.</p>
+
+</div>
+<div class="discussion">
+    <p>This method stores the response on successful registration.
+Subsequent calls to this method with the same <code>identifier</code> bypass calls to the
+network and return the stored response in the completion handler.
+Calling this method with a different <code>identifier</code> will remove any stored
+response from storage.</p>
+
+</div>
+<h4>Parameters</h4>
+
+<table class="parameters">
+  <thead hidden>
+  <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <th>identifier</th>
+    <td><code class="type">String</code></td>
+    <td><p>The channel identifier</p>
+</td>
+</tr>
+<tr>
+    <th>locale</th>
+    <td><code class="type">String</code></td>
+    <td><p>The preferred device locale</p>
+</td>
+</tr>
+<tr>
+    <th>callback</th>
+    <td><code class="type">@escaping (Push​Registration​Result) -&gt; Void</code></td>
+    <td><p>A result enum with a <code>PushRegistrationResponse</code> returned in the success case and an error in the error xcase.</p>
+</td>
+</tr>
+  </tbody>
+</table>
+</div>
+<div role="article" class="function" id="pushregistrationprovider.unregisterforpush()">
+    <h3>
+        <code><a href="#pushregistrationprovider.unregisterforpush()">unregister​For​Push()</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="keyword">func</span> <span class="function">unregisterForPush</span>()  </body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>Calls a push unregister endpoint with the stored device identifier</p>
+
+</div>
+</div>
+    </section>
+
+
+
+        </article>
+    </main>
+
+    <footer>
+        <p>
+    Generated on <time datetime="2022-04-22T09:58:38+0000">April 22, 2022</time> using <a href="https://github.com/SwiftDocOrg/swift-doc">swift-doc</a> <span class="version">1.0.0-rc.1</span>.
+</p>
+    </footer>
+</body>
+</html>

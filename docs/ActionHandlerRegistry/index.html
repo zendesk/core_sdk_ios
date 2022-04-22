@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZendeskCoreSDK - ActionHandlerRegistry</title>
+    <link rel="stylesheet" type="text/css" href="/core_sdk_ios/all.css" media="all" />
+</head>
+<body>
+    <header>
+        <a href="/core_sdk_ios">
+            <strong>
+                ZendeskCoreSDK
+            </strong>
+            <span>Documentation</span>
+        </a>
+    </header>
+
+    <!--
+    <form class="search">
+        <input type="search" placeholder="Search" />
+    </form>
+    -->
+
+    <nav>
+        <div class="wrapper">
+            <h2>On This Page</h2>
+            <ol><li><a href="#methods">Methods</a><ul><li class="function"><a href="#actionhandlerregistry.add(actionhandler:)">add(action​Handler:​)</a></li><li class="function"><a href="#actionhandlerregistry.clear()">clear()</a></li><li class="function"><a href="#actionhandlerregistry.handler(foraction:)">handler(for​Action:​)</a></li><li class="function"><a href="#actionhandlerregistry.handlers(foraction:)">handlers(for​Action:​)</a></li><li class="function"><a href="#actionhandlerregistry.remove(actionhandler:)">remove(action​Handler:​)</a></li></ul></li></ol>
+        </div>
+    </nav>
+
+    <main>
+        <article>
+            <h1>
+    <small>Structure</small>
+    <code class="name">Action​Handler​Registry</code>
+</h1>
+
+<div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="keyword">struct</span> <span class="type">ActionHandlerRegistry</span>  </body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>A registry of objects to be used for inter-SDK actions, such as starting
+a view controller from one SDK, in another SDK, without
+any dependency between them.</p>
+
+</div>
+
+    <section id="methods">
+        <h2>Methods</h2>
+
+        <div role="article" class="function" id="actionhandlerregistry.add(actionhandler:)">
+    <h3>
+        <code><a href="#actionhandlerregistry.add(actionhandler:)">add(action​Handler:​)</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="attribute">mutating</span> <span class="keyword">func</span> <span class="function">add</span>&lt;<span class="variable">T</span>: <span class="type">Equatable</span> &amp; <a href="/core_sdk_ios/ActionHandler"><span class="type">ActionHandler</span></a>&gt;(<span class="variable">actionHandler</span>: <span class="type">T</span>)  </body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>Method that adds a new actionHandler to the registry</p>
+
+</div>
+<h4>Parameters</h4>
+
+<table class="parameters">
+  <thead hidden>
+  <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <th>action​Handler</th>
+    <td><code class="type">T</code></td>
+    <td><p>The object to be added to the list.</p>
+</td>
+</tr>
+  </tbody>
+</table>
+</div>
+<div role="article" class="function" id="actionhandlerregistry.clear()">
+    <h3>
+        <code><a href="#actionhandlerregistry.clear()">clear()</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="attribute">mutating</span> <span class="keyword">func</span> <span class="function">clear</span>()  </body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>Method that clears the entire list of actionHandlers that are registered</p>
+
+</div>
+</div>
+<div role="article" class="function" id="actionhandlerregistry.handler(foraction:)">
+    <h3>
+        <code><a href="#actionhandlerregistry.handler(foraction:)">handler(for​Action:​)</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="keyword">func</span> <span class="function">handler</span>(<span class="variable">forAction</span> <span class="variable">actionName</span>: <span class="type">String</span>) -&gt; <a href="/core_sdk_ios/ActionHandler"><span class="type">ActionHandler</span></a>?  </body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>Method finds handler for a specific action name</p>
+
+</div>
+<h4>Parameters</h4>
+
+<table class="parameters">
+  <thead hidden>
+  <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <th>action​Name</th>
+    <td><code class="type">String</code></td>
+    <td><p>The name of the action which to query for.</p>
+</td>
+</tr>
+  </tbody>
+</table>
+  <h4>Returns</h4>
+  <p>An optional <code>ActionHandler</code> object that is the highest priority that matches the <code>actionName</code>.</p>
+
+</div>
+<div role="article" class="function" id="actionhandlerregistry.handlers(foraction:)">
+    <h3>
+        <code><a href="#actionhandlerregistry.handlers(foraction:)">handlers(for​Action:​)</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="keyword">func</span> <span class="function">handlers</span>(<span class="variable">forAction</span> <span class="variable">actionName</span>: <span class="type">String</span>) -&gt; [<a href="/core_sdk_ios/ActionHandler"><span class="type">ActionHandler</span></a>]  </body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>Method filters the handlers down to only the handlers that have a specific
+<code>actionName</code>.</p>
+
+</div>
+<h4>Parameters</h4>
+
+<table class="parameters">
+  <thead hidden>
+  <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <th>action​Name</th>
+    <td><code class="type">String</code></td>
+    <td><p>The name of the action which to query for.</p>
+</td>
+</tr>
+  </tbody>
+</table>
+  <h4>Returns</h4>
+  <p>An array of <code>ActionHandler</code> object which match the <code>actionName</code>. This array is ordered from highest priority to lowest.</p>
+
+</div>
+<div role="article" class="function" id="actionhandlerregistry.remove(actionhandler:)">
+    <h3>
+        <code><a href="#actionhandlerregistry.remove(actionhandler:)">remove(action​Handler:​)</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">public</span> <span class="attribute">mutating</span> <span class="keyword">func</span> <span class="function">remove</span>&lt;<span class="variable">T</span>: <span class="type">Equatable</span> &amp; <a href="/core_sdk_ios/ActionHandler"><span class="type">ActionHandler</span></a>&gt;(<span class="variable">actionHandler</span>: <span class="type">T</span> )  </body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>Method removes all <code>ActionHandler</code> objects in the registry that adhere to that specific
+implementation of <code>Equatable</code>.</p>
+
+</div>
+<h4>Parameters</h4>
+
+<table class="parameters">
+  <thead hidden>
+  <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <th>action​Handler</th>
+    <td><code class="type">T</code></td>
+    <td><p>An instance of a matching object type that is to be removed. A generic type that adhers to <code>ActionHandler</code> interface and <code>Equatable</code>.</p>
+</td>
+</tr>
+  </tbody>
+</table>
+</div>
+    </section>
+
+
+
+        </article>
+    </main>
+
+    <footer>
+        <p>
+    Generated on <time datetime="2022-04-22T09:58:38+0000">April 22, 2022</time> using <a href="https://github.com/SwiftDocOrg/swift-doc">swift-doc</a> <span class="version">1.0.0-rc.1</span>.
+</p>
+    </footer>
+</body>
+</html>
