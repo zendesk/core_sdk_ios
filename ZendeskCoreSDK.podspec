@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ZendeskCoreSDK"
-  s.version      = "2.7.0"
+  s.version      = "3.0.0"
   s.summary      = "ZendeskCoreSDK #{s.version.to_s}"
   s.homepage     = "https://developer.zendesk.com/documentation/classic-web-widget-sdks/"
   s.license      = {
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
     LICENSE
   }
   s.author       = 'Zendesk'
-  s.platform     = :ios, '10.0'
+  s.platform     = :ios, '11.0'
   s.requires_arc = true
   s.swift_version = '5.5.2'
   s.cocoapods_version = '>= 1.10.0'
