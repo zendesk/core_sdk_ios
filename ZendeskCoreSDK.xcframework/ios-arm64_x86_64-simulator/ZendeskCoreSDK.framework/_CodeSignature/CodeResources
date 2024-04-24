@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/ZendeskCoreSDK-Swift.h</key>
 		<data>
-		hhJNUO1a5lht6BVUys5CNlXBj58=
+		HScJ6uVwF8gdUUxirYjqoJdiQxY=
 		</data>
 		<key>Headers/ZendeskCoreSDK.h</key>
 		<data>
@@ -18,35 +18,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GScs+na8q2QDGVlexsPj2ZblqZQ=
+		4RAL38EUQZYnJYEbrl1/kF5Q7xo=
+		</data>
+		<key>Modules/ZendeskCoreSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		5Ej3uaNbq2yXtMonZzlFwzmdfdk=
+		</data>
+		<key>Modules/ZendeskCoreSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		mT14Yf+HlXTWVPoL0VpWmtKlijQ=
 		</data>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		k8wRPEVc8nj1fqeDsg6lTNqEhXI=
+		z/muWFZN//EQ/ULFePOEzGWrdsc=
 		</data>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		HN67RiXAlom5ibY9a6JfOxbCn+E=
+		mT14Yf+HlXTWVPoL0VpWmtKlijQ=
 		</data>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zMuSCxv4Lz0bkCTvg3/BVgCCpkM=
+		tiegA16mcZI7cpFNLKhFKu/KFaI=
+		</data>
+		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		5Ej3uaNbq2yXtMonZzlFwzmdfdk=
+		</data>
+		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		VGAczEW43zEgiSP3kFGU5obdZ4U=
 		</data>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		R4V7EjDTmronapgo5sdUEGTiMBw=
+		/ZF05HOdLzGt0u0dqSY/13kqtCo=
 		</data>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ErYViE2WpfYdW4ZB6E5XG2nrZ+A=
+		VGAczEW43zEgiSP3kFGU5obdZ4U=
 		</data>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		F75EOspylaLvMc9oyOu03EfTlGU=
+		bh6/bh74NeQ5ExTkAygCMdMQ0lc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		PHt+/UcIeN2EjWDU7735SNlVYLg=
+		qFaVeXEkg+9L1HLeC6nA7jtvIK4=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		TMAeigyTWYMIVh5oQ8gnltyzVWA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -62,7 +82,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yyn50zQ448Mzj7TsPwJEc8CtG+QDs9AQuQ5CLljQsr8=
+			76ApRVIrWDG9ygdf8FgdSG4Xofit851AlEt6m0LbM/s=
 			</data>
 		</dict>
 		<key>Headers/ZendeskCoreSDK.h</key>
@@ -72,53 +92,88 @@
 			T9fyy0KEVol+GbWlkDAXFy8NyCdcS3I0NULD9ifglBQ=
 			</data>
 		</dict>
+		<key>Modules/ZendeskCoreSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MDNWP7o6k3x5YnF+YNgLyu3hvZGFhfnkFqyDWIhoeyA=
+			</data>
+		</dict>
+		<key>Modules/ZendeskCoreSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0k2WlAJvLnbCbwRvBhBDODRP2VQDLVF8fge81n+RQWQ=
+			</data>
+		</dict>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w6Pr51ZoYAa6cIsDbH27C7ZqnzhOm/2u1W4JCIwmJCQ=
+			PCX/bm9v5HQtbJ1c76ok3VEU2ENI1Nm738BH+zWiRWI=
 			</data>
 		</dict>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rgCS7aBAlEL+PxbMTPIkTdUbcYXAAqGkVeIJHBl51q0=
+			0k2WlAJvLnbCbwRvBhBDODRP2VQDLVF8fge81n+RQWQ=
 			</data>
 		</dict>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Mw0JXmPd8Z5HERveWfIjBedTrhcKUDK4Nk1WGvVqMU=
+			Ut5RThDlmpFRqSR8zNw6mr3z1uL8sxoJZqkvnLTbfYE=
+			</data>
+		</dict>
+		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MDNWP7o6k3x5YnF+YNgLyu3hvZGFhfnkFqyDWIhoeyA=
+			</data>
+		</dict>
+		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JMr4eFlJelXn/OCw5pqgkjoCoqAF8raTzlUKKvJJaPU=
 			</data>
 		</dict>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0kIj1A4b/ujxK9n8ENfxmxi3WgZy/K4Xlvf/FlJnTSY=
+			uSJ/fpSc3FJUEtv3ac8RM/uVl9JV9D2Ka9Pg5TaaFMU=
 			</data>
 		</dict>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4627QoYwYicoTRiOe8/phd5az22T9fj3THM7UbEWUMU=
+			JMr4eFlJelXn/OCw5pqgkjoCoqAF8raTzlUKKvJJaPU=
 			</data>
 		</dict>
 		<key>Modules/ZendeskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fu/bYv6B2MTcnIPBNDjnQ+3ChVoSM8LkdZDh+w/wbZs=
+			Fp/5MYVGxBUKCBRUknYy9qkCm+oh3z739rQKDdYD2vc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GYcZRsrptI/8OvqeqqQkoTFWAzlzurt6CoXxhGyI5V8=
+			Dg1Ws6dIZ+dqsFyMkdLf4oQ84OvxQ6KAV2CGCtvACOM=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gb8zjiGAJC7O1fbw+DfDMUMTWpkx1M+IAFOt1BzUn+s=
 			</data>
 		</dict>
 	</dict>

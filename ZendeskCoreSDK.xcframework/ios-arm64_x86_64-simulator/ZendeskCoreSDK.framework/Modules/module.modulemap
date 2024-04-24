@@ -6,6 +6,6 @@ framework module ZendeskCoreSDK {
 }
 
 module ZendeskCoreSDK.Swift {
-    header "ZendeskCoreSDK-Swift.h"
-    requires objc
+  header "ZendeskCoreSDK-Swift.h"
+  requires objc
 }
