@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ZendeskCoreSDK"
-  s.version      = "5.0.1"
+  s.version      = "5.0.2"
   s.summary      = "ZendeskCoreSDK #{s.version.to_s}"
   s.homepage     = "https://developer.zendesk.com/documentation/classic-web-widget-sdks/"
   s.license      = {
