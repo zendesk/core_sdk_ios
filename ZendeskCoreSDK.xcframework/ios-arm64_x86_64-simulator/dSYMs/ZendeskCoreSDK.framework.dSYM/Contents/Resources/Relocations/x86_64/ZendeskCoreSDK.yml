@@ -309,7 +309,7 @@ relocations:
   - { offsetInCU: 0x519, offset: 0x8B015, size: 0x8, addend: 0x0, symName: '_$ss6ResultOy14ZendeskCoreSDK6AccessVs5Error_pGWOy', symObjAddr: 0x9D0, symBinAddr: 0xB850, symSize: 0x20 }
   - { offsetInCU: 0x52D, offset: 0x8B029, size: 0x8, addend: 0x0, symName: '_$ss6ResultOy14ZendeskCoreSDK6AccessVs5Error_pGWOe', symObjAddr: 0x9F0, symBinAddr: 0xB870, symSize: 0x20 }
   - { offsetInCU: 0x27, offset: 0x8B1B2, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK12AccountStoreVMa', symObjAddr: 0x10, symBinAddr: 0xB920, symSize: 0x10 }
-  - { offsetInCU: 0x4B, offset: 0x8B1D6, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK12AccountStoreV9suiteNameSSvpZ', symObjAddr: 0x3280, symBinAddr: 0x7B308, symSize: 0x0 }
+  - { offsetInCU: 0x4B, offset: 0x8B1D6, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK12AccountStoreV9suiteNameSSvpZ', symObjAddr: 0x3270, symBinAddr: 0x7B308, symSize: 0x0 }
   - { offsetInCU: 0x59, offset: 0x8B1E4, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK12AccountStoreVMa', symObjAddr: 0x10, symBinAddr: 0xB920, symSize: 0x10 }
   - { offsetInCU: 0x6D, offset: 0x8B1F8, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK12AccountStoreV9suiteName_WZ', symObjAddr: 0x20, symBinAddr: 0xB930, symSize: 0x40 }
   - { offsetInCU: 0xBD, offset: 0x8B248, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK12AccountStoreV5store14accountDetailsyAA0dH0_p_tFTf4nd_n', symObjAddr: 0x60, symBinAddr: 0xB970, symSize: 0x280 }
@@ -468,7 +468,7 @@ relocations:
   - { offsetInCU: 0x760, offset: 0x8D89B, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK8PageViewV10CodingKeys33_E85D79BD1F8F91B3CE06C217CFEE5A1BLLOyx_GSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x490, symBinAddr: 0xED70, symSize: 0x50 }
   - { offsetInCU: 0x7A4, offset: 0x8D8DF, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK8PageViewV10CodingKeys33_E85D79BD1F8F91B3CE06C217CFEE5A1BLLOyx_Gs28CustomDebugStringConvertibleAAsAHP16debugDescriptionSSvgTW', symObjAddr: 0x560, symBinAddr: 0xEE40, symSize: 0x30 }
   - { offsetInCU: 0x7C0, offset: 0x8D8FB, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK8PageViewV10CodingKeys33_E85D79BD1F8F91B3CE06C217CFEE5A1BLLOyx_Gs23CustomStringConvertibleAAsAHP11descriptionSSvgTW', symObjAddr: 0x590, symBinAddr: 0xEE70, symSize: 0x30 }
-  - { offsetInCU: 0x4F, offset: 0x8DA42, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13NetworkClientC7defaultACvpZ', symObjAddr: 0x95D8, symBinAddr: 0x7B318, symSize: 0x0 }
+  - { offsetInCU: 0x4F, offset: 0x8DA42, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13NetworkClientC7defaultACvpZ', symObjAddr: 0x95C0, symBinAddr: 0x7B318, symSize: 0x0 }
   - { offsetInCU: 0xCB, offset: 0x8DABE, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13NetworkClientC7defaultACvpZfiACyXEfU_', symObjAddr: 0xE20, symBinAddr: 0x110E0, symSize: 0x290 }
   - { offsetInCU: 0x296, offset: 0x8DC89, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13NetworkClientCfD', symObjAddr: 0x10B0, symBinAddr: 0x11370, symSize: 0x30 }
   - { offsetInCU: 0x46E, offset: 0x8DE61, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK11InterceptorPAAE9intercept_4withs6ResultOy10Foundation10URLRequestVs5Error_pGAJ_AA12InterceptorsVtFZAA13NetworkClientC_Tg5', symObjAddr: 0x900, symBinAddr: 0x10BC0, symSize: 0x4E0 }
@@ -574,7 +574,7 @@ relocations:
   - { offsetInCU: 0x4C4, offset: 0x8FB93, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13BlipsSettingsV4Keys33_CF438C752CB60BC41CB18F3634D3B69ALLOs28CustomDebugStringConvertibleAAsAGP16debugDescriptionSSvgTW', symObjAddr: 0x3F0, symBinAddr: 0x163F0, symSize: 0x20 }
   - { offsetInCU: 0x4E0, offset: 0x8FBAF, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13BlipsSettingsV4Keys33_CF438C752CB60BC41CB18F3634D3B69ALLOs23CustomStringConvertibleAAsAGP11descriptionSSvgTW', symObjAddr: 0x410, symBinAddr: 0x16410, symSize: 0x20 }
   - { offsetInCU: 0x27, offset: 0x8FC95, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9BaseStoreV9suiteName_WZ', symObjAddr: 0x0, symBinAddr: 0x16880, symSize: 0x40 }
-  - { offsetInCU: 0x4B, offset: 0x8FCB9, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9BaseStoreV9suiteNameSSvpZ', symObjAddr: 0x2318, symBinAddr: 0x7B320, symSize: 0x0 }
+  - { offsetInCU: 0x4B, offset: 0x8FCB9, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9BaseStoreV9suiteNameSSvpZ', symObjAddr: 0x2308, symBinAddr: 0x7B320, symSize: 0x0 }
   - { offsetInCU: 0x59, offset: 0x8FCC7, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9BaseStoreV9suiteName_WZ', symObjAddr: 0x0, symBinAddr: 0x16880, symSize: 0x40 }
   - { offsetInCU: 0xA9, offset: 0x8FD17, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9BaseStoreV12getMachineIDSSyF', symObjAddr: 0x40, symBinAddr: 0x168C0, symSize: 0x300 }
   - { offsetInCU: 0x1BA, offset: 0x8FE28, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9BaseStoreVMa', symObjAddr: 0x3B0, symBinAddr: 0x16BC0, symSize: 0xA }
@@ -712,7 +712,7 @@ relocations:
   - { offsetInCU: 0x1CE8, offset: 0x920EF, size: 0x8, addend: 0x0, symName: '_$ss22KeyedDecodingContainerV14ZendeskCoreSDKE10UnkownKeys33_13C92B1591AE7D14240700342CF4D921LLVyx_Gs28CustomDebugStringConvertibleACsAHP16debugDescriptionSSvgTW', symObjAddr: 0x1E00, symBinAddr: 0x19050, symSize: 0x30 }
   - { offsetInCU: 0x1D04, offset: 0x9210B, size: 0x8, addend: 0x0, symName: '_$ss22KeyedDecodingContainerV14ZendeskCoreSDKE10UnkownKeys33_13C92B1591AE7D14240700342CF4D921LLVyx_Gs23CustomStringConvertibleACsAHP11descriptionSSvgTW', symObjAddr: 0x1E30, symBinAddr: 0x19080, symSize: 0x30 }
   - { offsetInCU: 0x2B, offset: 0x922E4, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13SettingsStoreVwCP', symObjAddr: 0x10, symBinAddr: 0x19800, symSize: 0x30 }
-  - { offsetInCU: 0x4F, offset: 0x92308, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13SettingsStoreV9suiteNameSSvpZ', symObjAddr: 0x54B0, symBinAddr: 0x7B340, symSize: 0x0 }
+  - { offsetInCU: 0x4F, offset: 0x92308, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13SettingsStoreV9suiteNameSSvpZ', symObjAddr: 0x54A0, symBinAddr: 0x7B340, symSize: 0x0 }
   - { offsetInCU: 0x5D, offset: 0x92316, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13SettingsStoreVwCP', symObjAddr: 0x10, symBinAddr: 0x19800, symSize: 0x30 }
   - { offsetInCU: 0x71, offset: 0x9232A, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13SettingsStoreVwxx', symObjAddr: 0x40, symBinAddr: 0x19830, symSize: 0x30 }
   - { offsetInCU: 0x85, offset: 0x9233E, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13SettingsStoreVwcp', symObjAddr: 0x70, symBinAddr: 0x19860, symSize: 0x40 }
@@ -751,7 +751,7 @@ relocations:
   - { offsetInCU: 0x3F5, offset: 0x92E57, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK17ActionDescriptionVwst', symObjAddr: 0xDB0, symBinAddr: 0x1B4C0, symSize: 0x20 }
   - { offsetInCU: 0x409, offset: 0x92E6B, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK17ActionDescriptionVMr', symObjAddr: 0xE30, symBinAddr: 0x1B540, symSize: 0x80 }
   - { offsetInCU: 0x41D, offset: 0x92E7F, size: 0x8, addend: 0x0, symName: '_$s10Foundation3URLVSgMa', symObjAddr: 0xEB0, symBinAddr: 0x1B5C0, symSize: 0x43 }
-  - { offsetInCU: 0x4F, offset: 0x93042, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13IdentityStoreV9suiteNameSSvpZ', symObjAddr: 0x7E10, symBinAddr: 0x7B350, symSize: 0x0 }
+  - { offsetInCU: 0x4F, offset: 0x93042, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13IdentityStoreV9suiteNameSSvpZ', symObjAddr: 0x7E00, symBinAddr: 0x7B350, symSize: 0x0 }
   - { offsetInCU: 0x5D, offset: 0x93050, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13IdentityStoreVwCP', symObjAddr: 0x10, symBinAddr: 0x1B610, symSize: 0x30 }
   - { offsetInCU: 0x71, offset: 0x93064, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13IdentityStoreVwxx', symObjAddr: 0x40, symBinAddr: 0x1B640, symSize: 0x10 }
   - { offsetInCU: 0x85, offset: 0x93078, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK13IdentityStoreVwcp', symObjAddr: 0x50, symBinAddr: 0x1B650, symSize: 0x30 }
@@ -1087,7 +1087,7 @@ relocations:
   - { offsetInCU: 0x80E, offset: 0x9C026, size: 0x8, addend: 0x0, symName: '_$sSo7NSArrayCSo7NSErrorCSgIeyByy_SaySSGs5Error_pSgIeggg_TRTA', symObjAddr: 0xC40, symBinAddr: 0x2A7A0, symSize: 0x10 }
   - { offsetInCU: 0x822, offset: 0x9C03A, size: 0x8, addend: 0x0, symName: '_$sSo7NSArrayCSo7NSErrorCSgIeyByy_Say14ZendeskCoreSDK9UserFieldCGs5Error_pSgIeggg_TRTA', symObjAddr: 0xC70, symBinAddr: 0x2A7D0, symSize: 0x10 }
   - { offsetInCU: 0x836, offset: 0x9C04E, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK4UserCSgSo7NSErrorCSgIeyByy_ADs5Error_pSgIeggg_TRTA', symObjAddr: 0xC80, symBinAddr: 0x2A7E0, symSize: 0x10 }
-  - { offsetInCU: 0x4F, offset: 0x9C242, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK12SessionStoreV9suiteNameSSvpZ', symObjAddr: 0x7C00, symBinAddr: 0x7B360, symSize: 0x0 }
+  - { offsetInCU: 0x4F, offset: 0x9C242, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK12SessionStoreV9suiteNameSSvpZ', symObjAddr: 0x7BF0, symBinAddr: 0x7B360, symSize: 0x0 }
   - { offsetInCU: 0xC2, offset: 0x9C2B5, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK12SessionStoreV5store5value6forKeySbypSg_SStF', symObjAddr: 0x160, symBinAddr: 0x2AA60, symSize: 0x620 }
   - { offsetInCU: 0x2E7, offset: 0x9C4DA, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK12SessionStoreV08logAboutD7Storage33_168148F00B0284DD29C349096F4E337CLL13didSyncronize3keyySb_SStF', symObjAddr: 0x780, symBinAddr: 0x2B080, symSize: 0x190 }
   - { offsetInCU: 0x326, offset: 0x9C519, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK12SessionStoreV5value6forKeyypSgSS_tF', symObjAddr: 0x910, symBinAddr: 0x2B210, symSize: 0x90 }
@@ -1111,30 +1111,30 @@ relocations:
   - { offsetInCU: 0x971, offset: 0x9CB64, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV20_copyOrMoveAndResize8capacity12moveElementsySi_SbtFSS_ypTg5', symObjAddr: 0x1770, symBinAddr: 0x2BF10, symSize: 0x3C0 }
   - { offsetInCU: 0xA93, offset: 0x9CC86, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV7_delete2atys10_HashTableV6BucketV_tFSS_ypTg5', symObjAddr: 0x1B30, symBinAddr: 0x2C2D0, symSize: 0x218 }
   - { offsetInCU: 0x27, offset: 0x9CEB8, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO6iphone_WZ', symObjAddr: 0x0, symBinAddr: 0x2C4F0, symSize: 0x30 }
-  - { offsetInCU: 0x4B, offset: 0x9CEDC, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO6iphoneSSvpZ', symObjAddr: 0x3408, symBinAddr: 0x7B370, symSize: 0x0 }
-  - { offsetInCU: 0x65, offset: 0x9CEF6, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO04coreC0SSvpZ', symObjAddr: 0x3418, symBinAddr: 0x7B380, symSize: 0x0 }
-  - { offsetInCU: 0x7F, offset: 0x9CF10, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO4coreSSvpZ', symObjAddr: 0x3428, symBinAddr: 0x7B390, symSize: 0x0 }
-  - { offsetInCU: 0x99, offset: 0x9CF2A, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO10dateLocaleSSvpZ', symObjAddr: 0x3438, symBinAddr: 0x7B3A0, symSize: 0x0 }
-  - { offsetInCU: 0xB3, offset: 0x9CF44, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO7HeadersO11contentTypeSSvpZ', symObjAddr: 0x3448, symBinAddr: 0x7B3B0, symSize: 0x0 }
-  - { offsetInCU: 0xCD, offset: 0x9CF5E, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO7HeadersO9userAgentSSvpZ', symObjAddr: 0x3458, symBinAddr: 0x7B3C0, symSize: 0x0 }
-  - { offsetInCU: 0xE7, offset: 0x9CF78, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO7HeadersO6acceptSSvpZ', symObjAddr: 0x3468, symBinAddr: 0x7B3D0, symSize: 0x0 }
-  - { offsetInCU: 0x101, offset: 0x9CF92, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO7HeadersO14acceptLanguageSSvpZ', symObjAddr: 0x3478, symBinAddr: 0x7B3E0, symSize: 0x0 }
-  - { offsetInCU: 0x11B, offset: 0x9CFAC, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO8IdentityO4guidSSvpZ', symObjAddr: 0x3488, symBinAddr: 0x7B3F0, symSize: 0x0 }
-  - { offsetInCU: 0x135, offset: 0x9CFC6, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO8IdentityO8identitySSvpZ', symObjAddr: 0x3498, symBinAddr: 0x7B400, symSize: 0x0 }
-  - { offsetInCU: 0x14F, offset: 0x9CFE0, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO8IdentityO9authTokenSSvpZ', symObjAddr: 0x34A8, symBinAddr: 0x7B410, symSize: 0x0 }
-  - { offsetInCU: 0x169, offset: 0x9CFFA, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO8IdentityO4uuidSSvpZ', symObjAddr: 0x34B8, symBinAddr: 0x7B420, symSize: 0x0 }
-  - { offsetInCU: 0x183, offset: 0x9D014, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO8IdentityO6userIdSSvpZ', symObjAddr: 0x34C8, symBinAddr: 0x7B430, symSize: 0x0 }
-  - { offsetInCU: 0x19D, offset: 0x9D02E, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO5BlipsO8initTypeSSvpZ', symObjAddr: 0x34D8, symBinAddr: 0x7B440, symSize: 0x0 }
-  - { offsetInCU: 0x1B7, offset: 0x9D048, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO5BlipsO11pushOffTypeSSvpZ', symObjAddr: 0x34E8, symBinAddr: 0x7B450, symSize: 0x0 }
-  - { offsetInCU: 0x1D1, offset: 0x9D062, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO5BlipsO13schemaVersionSSvpZ', symObjAddr: 0x34F8, symBinAddr: 0x7B460, symSize: 0x0 }
-  - { offsetInCU: 0x1EB, offset: 0x9D07C, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO12pushTokenKeySSvpZ', symObjAddr: 0x3508, symBinAddr: 0x7B470, symSize: 0x0 }
-  - { offsetInCU: 0x205, offset: 0x9D096, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO9BaseStoreO12machineIDKeySSvpZ', symObjAddr: 0x3518, symBinAddr: 0x7B480, symSize: 0x0 }
-  - { offsetInCU: 0x21F, offset: 0x9D0B0, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK11ModelFieldsO8SettingsO12updatedAtKeySSvpZ', symObjAddr: 0x3528, symBinAddr: 0x7B490, symSize: 0x0 }
-  - { offsetInCU: 0x239, offset: 0x9D0CA, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK11ModelFieldsO7AccountO17accountDetailsKeySSvpZ', symObjAddr: 0x3538, symBinAddr: 0x7B4A0, symSize: 0x0 }
-  - { offsetInCU: 0x253, offset: 0x9D0E4, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK11ModelFieldsO4UserO4userSSvpZ', symObjAddr: 0x3548, symBinAddr: 0x7B4B0, symSize: 0x0 }
-  - { offsetInCU: 0x26D, offset: 0x9D0FE, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK11ModelFieldsO4UserO4tagsSSvpZ', symObjAddr: 0x3558, symBinAddr: 0x7B4C0, symSize: 0x0 }
-  - { offsetInCU: 0x287, offset: 0x9D118, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK11ModelFieldsO4UserO04userE0SSvpZ', symObjAddr: 0x3568, symBinAddr: 0x7B4D0, symSize: 0x0 }
-  - { offsetInCU: 0x2A1, offset: 0x9D132, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK7StringsO14AccessProviderO17accessErrorPrefixSSvpZ', symObjAddr: 0x3578, symBinAddr: 0x7B4E0, symSize: 0x0 }
+  - { offsetInCU: 0x4B, offset: 0x9CEDC, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO6iphoneSSvpZ', symObjAddr: 0x33F8, symBinAddr: 0x7B370, symSize: 0x0 }
+  - { offsetInCU: 0x65, offset: 0x9CEF6, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO04coreC0SSvpZ', symObjAddr: 0x3408, symBinAddr: 0x7B380, symSize: 0x0 }
+  - { offsetInCU: 0x7F, offset: 0x9CF10, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO4coreSSvpZ', symObjAddr: 0x3418, symBinAddr: 0x7B390, symSize: 0x0 }
+  - { offsetInCU: 0x99, offset: 0x9CF2A, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO10dateLocaleSSvpZ', symObjAddr: 0x3428, symBinAddr: 0x7B3A0, symSize: 0x0 }
+  - { offsetInCU: 0xB3, offset: 0x9CF44, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO7HeadersO11contentTypeSSvpZ', symObjAddr: 0x3438, symBinAddr: 0x7B3B0, symSize: 0x0 }
+  - { offsetInCU: 0xCD, offset: 0x9CF5E, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO7HeadersO9userAgentSSvpZ', symObjAddr: 0x3448, symBinAddr: 0x7B3C0, symSize: 0x0 }
+  - { offsetInCU: 0xE7, offset: 0x9CF78, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO7HeadersO6acceptSSvpZ', symObjAddr: 0x3458, symBinAddr: 0x7B3D0, symSize: 0x0 }
+  - { offsetInCU: 0x101, offset: 0x9CF92, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO7HeadersO14acceptLanguageSSvpZ', symObjAddr: 0x3468, symBinAddr: 0x7B3E0, symSize: 0x0 }
+  - { offsetInCU: 0x11B, offset: 0x9CFAC, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO8IdentityO4guidSSvpZ', symObjAddr: 0x3478, symBinAddr: 0x7B3F0, symSize: 0x0 }
+  - { offsetInCU: 0x135, offset: 0x9CFC6, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO8IdentityO8identitySSvpZ', symObjAddr: 0x3488, symBinAddr: 0x7B400, symSize: 0x0 }
+  - { offsetInCU: 0x14F, offset: 0x9CFE0, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO8IdentityO9authTokenSSvpZ', symObjAddr: 0x3498, symBinAddr: 0x7B410, symSize: 0x0 }
+  - { offsetInCU: 0x169, offset: 0x9CFFA, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO8IdentityO4uuidSSvpZ', symObjAddr: 0x34A8, symBinAddr: 0x7B420, symSize: 0x0 }
+  - { offsetInCU: 0x183, offset: 0x9D014, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO8IdentityO6userIdSSvpZ', symObjAddr: 0x34B8, symBinAddr: 0x7B430, symSize: 0x0 }
+  - { offsetInCU: 0x19D, offset: 0x9D02E, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO5BlipsO8initTypeSSvpZ', symObjAddr: 0x34C8, symBinAddr: 0x7B440, symSize: 0x0 }
+  - { offsetInCU: 0x1B7, offset: 0x9D048, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO5BlipsO11pushOffTypeSSvpZ', symObjAddr: 0x34D8, symBinAddr: 0x7B450, symSize: 0x0 }
+  - { offsetInCU: 0x1D1, offset: 0x9D062, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO5BlipsO13schemaVersionSSvpZ', symObjAddr: 0x34E8, symBinAddr: 0x7B460, symSize: 0x0 }
+  - { offsetInCU: 0x1EB, offset: 0x9D07C, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO12pushTokenKeySSvpZ', symObjAddr: 0x34F8, symBinAddr: 0x7B470, symSize: 0x0 }
+  - { offsetInCU: 0x205, offset: 0x9D096, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO9BaseStoreO12machineIDKeySSvpZ', symObjAddr: 0x3508, symBinAddr: 0x7B480, symSize: 0x0 }
+  - { offsetInCU: 0x21F, offset: 0x9D0B0, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK11ModelFieldsO8SettingsO12updatedAtKeySSvpZ', symObjAddr: 0x3518, symBinAddr: 0x7B490, symSize: 0x0 }
+  - { offsetInCU: 0x239, offset: 0x9D0CA, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK11ModelFieldsO7AccountO17accountDetailsKeySSvpZ', symObjAddr: 0x3528, symBinAddr: 0x7B4A0, symSize: 0x0 }
+  - { offsetInCU: 0x253, offset: 0x9D0E4, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK11ModelFieldsO4UserO4userSSvpZ', symObjAddr: 0x3538, symBinAddr: 0x7B4B0, symSize: 0x0 }
+  - { offsetInCU: 0x26D, offset: 0x9D0FE, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK11ModelFieldsO4UserO4tagsSSvpZ', symObjAddr: 0x3548, symBinAddr: 0x7B4C0, symSize: 0x0 }
+  - { offsetInCU: 0x287, offset: 0x9D118, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK11ModelFieldsO4UserO04userE0SSvpZ', symObjAddr: 0x3558, symBinAddr: 0x7B4D0, symSize: 0x0 }
+  - { offsetInCU: 0x2A1, offset: 0x9D132, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK7StringsO14AccessProviderO17accessErrorPrefixSSvpZ', symObjAddr: 0x3568, symBinAddr: 0x7B4E0, symSize: 0x0 }
   - { offsetInCU: 0x2AF, offset: 0x9D140, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO6iphone_WZ', symObjAddr: 0x0, symBinAddr: 0x2C4F0, symSize: 0x30 }
   - { offsetInCU: 0x2C9, offset: 0x9D15A, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO04coreC0_WZ', symObjAddr: 0x30, symBinAddr: 0x2C520, symSize: 0x30 }
   - { offsetInCU: 0x2E3, offset: 0x9D174, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK9ConstantsO4core_WZ', symObjAddr: 0x60, symBinAddr: 0x2C550, symSize: 0x30 }
@@ -1994,8 +1994,8 @@ relocations:
   - { offsetInCU: 0xF3, offset: 0xACE84, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK8ReporterOwui', symObjAddr: 0x280, symBinAddr: 0x44F90, symSize: 0x20 }
   - { offsetInCU: 0x107, offset: 0xACE98, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK8ReporterOMa', symObjAddr: 0x2A0, symBinAddr: 0x44FB0, symSize: 0xA }
   - { offsetInCU: 0x27, offset: 0xACF44, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK14HelpCenterUtilC16OAUTH_HEADER_KEY_WZ', symObjAddr: 0x0, symBinAddr: 0x44FC0, symSize: 0x30 }
-  - { offsetInCU: 0x4B, offset: 0xACF68, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK14HelpCenterUtilC16OAUTH_HEADER_KEYSSvpZ', symObjAddr: 0x4CF0, symBinAddr: 0x7B4F0, symSize: 0x0 }
-  - { offsetInCU: 0x65, offset: 0xACF82, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK14HelpCenterUtilC13BEARER_PREFIXSSvpZ', symObjAddr: 0x4D00, symBinAddr: 0x7B500, symSize: 0x0 }
+  - { offsetInCU: 0x4B, offset: 0xACF68, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK14HelpCenterUtilC16OAUTH_HEADER_KEYSSvpZ', symObjAddr: 0x4CD8, symBinAddr: 0x7B4F0, symSize: 0x0 }
+  - { offsetInCU: 0x65, offset: 0xACF82, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK14HelpCenterUtilC13BEARER_PREFIXSSvpZ', symObjAddr: 0x4CE8, symBinAddr: 0x7B500, symSize: 0x0 }
   - { offsetInCU: 0x73, offset: 0xACF90, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK14HelpCenterUtilC16OAUTH_HEADER_KEY_WZ', symObjAddr: 0x0, symBinAddr: 0x44FC0, symSize: 0x30 }
   - { offsetInCU: 0x8D, offset: 0xACFAA, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK14HelpCenterUtilC13BEARER_PREFIX_WZ', symObjAddr: 0x30, symBinAddr: 0x44FF0, symSize: 0x30 }
   - { offsetInCU: 0xE0, offset: 0xACFFD, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK14HelpCenterUtilC10zendeskURLSSSgvgZTo', symObjAddr: 0x60, symBinAddr: 0x45020, symSize: 0x60 }
@@ -2157,7 +2157,7 @@ relocations:
   - { offsetInCU: 0xB20, offset: 0xB1CF5, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x14B0, symBinAddr: 0x4B8D0, symSize: 0x10 }
   - { offsetInCU: 0xB34, offset: 0xB1D09, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK28URLSessionTaskHandlerManagerC9completedyyAA0dE12Identifiable_pFyyXEfU_TA', symObjAddr: 0x1540, symBinAddr: 0x4B910, symSize: 0x20 }
   - { offsetInCU: 0xB48, offset: 0xB1D1D, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK29URLSessionTaskHandlerDelegate_pSgXwWOh', symObjAddr: 0x1610, symBinAddr: 0x4B930, symSize: 0x20 }
-  - { offsetInCU: 0x4F, offset: 0xB1F74, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK15AccessResourcesO7jwtPathSSvpZ', symObjAddr: 0xECF0, symBinAddr: 0x7B510, symSize: 0x0 }
+  - { offsetInCU: 0x4F, offset: 0xB1F74, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK15AccessResourcesO7jwtPathSSvpZ', symObjAddr: 0xECD8, symBinAddr: 0x7B510, symSize: 0x0 }
   - { offsetInCU: 0x5D, offset: 0xB1F82, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK12AccessStatusOwCP', symObjAddr: 0x0, symBinAddr: 0x4B980, symSize: 0x20 }
   - { offsetInCU: 0x71, offset: 0xB1F96, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK12AccessStatusOwxx', symObjAddr: 0x20, symBinAddr: 0x4B9A0, symSize: 0x10 }
   - { offsetInCU: 0x85, offset: 0xB1FAA, size: 0x8, addend: 0x0, symName: '_$s14ZendeskCoreSDK12AccessStatusOwcp', symObjAddr: 0x30, symBinAddr: 0x4B9B0, symSize: 0x20 }
