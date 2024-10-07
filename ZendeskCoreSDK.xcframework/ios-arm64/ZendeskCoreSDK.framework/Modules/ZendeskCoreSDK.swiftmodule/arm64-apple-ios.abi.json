@@ -15252,7 +15252,7 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Model\/IdentityStore.swift",
       "kind": "StringLiteral",
-      "offset": 1497,
+      "offset": 1437,
       "length": 2,
       "value": "\"\""
     },
@@ -15504,7 +15504,7 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Model\/SessionStore.swift",
       "kind": "StringLiteral",
-      "offset": 1022,
+      "offset": 962,
       "length": 19,
       "value": "\"non-representable\""
     },
@@ -16330,14 +16330,14 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/ProviderService.swift",
       "kind": "BooleanLiteral",
-      "offset": 2442,
+      "offset": 2365,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/ProviderService.swift",
       "kind": "Dictionary",
-      "offset": 2570,
+      "offset": 2493,
       "length": 3,
       "value": "[]"
     },
@@ -16617,70 +16617,70 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/BlipProvider.swift",
       "kind": "StringLiteral",
-      "offset": 2187,
+      "offset": 1924,
       "length": 51,
       "value": "\"Failed to send blip \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/BlipProvider.swift",
       "kind": "StringLiteral",
-      "offset": 2237,
+      "offset": 1974,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/BlipProvider.swift",
       "kind": "StringLiteral",
-      "offset": 2565,
+      "offset": 2302,
       "length": 51,
       "value": "\"Failed to send blip \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/BlipProvider.swift",
       "kind": "StringLiteral",
-      "offset": 2615,
+      "offset": 2352,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/BlipProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 2918,
+      "offset": 2655,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/BlipProvider.swift",
       "kind": "Array",
-      "offset": 3144,
+      "offset": 2881,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/BlipProvider.swift",
       "kind": "Array",
-      "offset": 3170,
+      "offset": 2907,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/BlipProvider.swift",
       "kind": "Dictionary",
-      "offset": 5042,
+      "offset": 4779,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/BlipProvider.swift",
       "kind": "StringLiteral",
-      "offset": 5680,
+      "offset": 5417,
       "length": 6,
       "value": "\"\/+\n\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/BlipProvider.swift",
       "kind": "Array",
-      "offset": 6110,
+      "offset": 5847,
       "length": 2,
       "value": "[]"
     },
@@ -17282,28 +17282,28 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/AccessProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 2919,
+      "offset": 2918,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/AccessProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 2927,
+      "offset": 2926,
       "length": 3,
       "value": "299"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/AccessProvider.swift",
       "kind": "StringLiteral",
-      "offset": 3308,
+      "offset": 3306,
       "length": 27,
       "value": "\"Default error description\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/ZendeskCoreSDK\/ZendeskCoreSDK\/Source\/Providers\/AccessProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 3369,
+      "offset": 3367,
       "length": 2,
       "value": "-1"
     },
